@@ -16,8 +16,8 @@ Python 3.x
 Just copy to directory where you store user direcctories. 
 
 > //for /home/SAMDOM/<login>
-> cp fixperms.py /home/SAMDOM
-> python fixperms.py
+ cp fixperms.py /home/SAMDOM
+ python fixperms.py
 
 # licence
 MIT
