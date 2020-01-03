@@ -15,7 +15,7 @@ Python 3.x
 
 Just copy to directory where you store user direcctories. 
 
->//for /home/SAMDOM/<login>
+> when homes root is /home/SAMDOM/login's
 
 `cp fixperms.py /home/SAMDOM`
 `python fixperms.py`
