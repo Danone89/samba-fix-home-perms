@@ -6,14 +6,18 @@ If yours home are stored as /home/%u (where %u is user login) you can use this s
   - you moved/migrate homes from source without correct perms.
   - your ldb or idmap got corrupted
   - created new domain with old files
+  
+# Prerequisites
 
-# usage
+Python 3.x
 
-Just copy and use as you want.
+# Usage
 
-> or formatting instructions.
+Just copy to directory where you store user direcctories. 
 
+> //for /home/SAMDOM/<login>
+> cp fixperms.py /home/SAMDOM
+> python fixperms.py
 
-
-#licence
+# licence
 MIT
